@@ -102,7 +102,7 @@ input[type="checkbox"] {
   width: 25px;
   height: 25px;
   background-color: white;
-  /* ezzel tököltem nem kicsit...*/
+  /* ezzel tököltem nem kicsit... nem kattintható de ugy néz ki, vagy ez vagy az...*/
   -webkit-appearance: none;
   -moz-appearance: none;
 }
